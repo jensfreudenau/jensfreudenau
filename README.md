@@ -2,7 +2,7 @@
 - 👀 I’m interested in PHP
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on freelance projects
-- 📫 How to reach me over http://wwww.freude-now.de
+- 📫 How to reach me over https://wwww.freude-now.de
 
 <!---
 jensfreudenau/jensfreudenau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
