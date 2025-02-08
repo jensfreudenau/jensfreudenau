@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jensfreudenau
+- 👋 Hi, I’m Jens Freudenau
 - 👀 I’m interested in PHP
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on freelance projects
