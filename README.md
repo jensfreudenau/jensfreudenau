@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jens Freudenau
 - 👀 I’m interested in PHP
-- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on freelance projects
 - 📫 How to reach me over https://www.freude-now.de
 
